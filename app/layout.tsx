@@ -23,7 +23,7 @@ export default function RootLayout({
               className="text-sm font-semibold tracking-tight text-white"
               aria-label="Go to top"
             >
-              MN
+              RN
             </a>
 
             <div className="flex items-center gap-4 text-xs text-white/60 sm:gap-7 sm:text-sm">
@@ -49,7 +49,7 @@ export default function RootLayout({
               </a>
 
               <a
-                href="mailto:naradalamaadhav@gmail.com"
+                href="mailto:naradalarahul59@gmail.com"
                 className="rounded-full bg-white px-4 py-1.5 font-medium text-black transition hover:bg-white/85"
               >
                 Contact

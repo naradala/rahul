@@ -256,20 +256,12 @@ export const resumeData: ResumeData = {
 
   education: [
     {
-      id: 'florida-institute-of-technology',
+      id: 'TrineUniversity',
       degree: "Master's Degree",
-      field: 'Computer Information Systems',
-      institution: 'Florida Institute of Technology',
-      graduationYear: 'May 2020',
-      gpa: '3.36',
-    },
-    {
-      id: 'gitam-university',
-      degree: "Bachelor's Degree",
-      field: 'Electronics & Communication Engineering',
-      institution: 'GITAM University',
-      graduationYear: 'June 2017',
-      gpa: '7.57',
+      field: 'Information Studies',
+      institution: 'Trine University',
+      graduationYear: 'May 2025',
+      gpa: '3.72',
     },
   ],
 };
