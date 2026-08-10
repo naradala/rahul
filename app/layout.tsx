@@ -3,9 +3,9 @@ import './globals.css';
 import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
-  title: 'Madhav Naradala | Full Stack Java Developer',
+  title: 'Rahul Naradala | Full Stack Java Developer',
   description:
-    'Portfolio of Madhav Naradala, a Full Stack Java Developer specializing in Java, Spring Boot, React, cloud technologies, and enterprise applications.',
+    'Portfolio of Rahul Naradala, a Full Stack Java Developer specializing in Java, Spring Boot, React, cloud technologies, and enterprise applications.',
 };
 
 export default function RootLayout({
